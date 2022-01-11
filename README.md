@@ -5,4 +5,4 @@ Data manipulation and pivoting processes, which were done manually in 20-25 minu
 
 *The reports used and obtained as a printout are not shared on 3rd party sites due to the personal data protection law.
 
-*Column and sheet names translated to English
+*Column names, cluster names and sheet names translated to English for better understanding.
